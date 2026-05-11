@@ -115,3 +115,5 @@ The current pre-commit hooks do the following:
 - format and lint C++ code with `clang-format`;
 - format and lint Python code with `ruff`;
 - strip outputs from Jupyter notebooks.
+
+Backtester: https://github.com/Akhrameshin/backtester
